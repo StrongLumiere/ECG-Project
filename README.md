@@ -33,13 +33,13 @@ More details can be found on the [PhysioNet Challenge 2017 page](https://physion
 
 1. This project utilizes code from [Pramod07Ch](https://github.com/Pramod07Ch). Their contributions have been invaluable. You can find the original repository [here](https://github.com/Pramod07Ch/Pan-Tompkins-algorithm-python).
 
-2. <cartesian_to_polar.py> is contributed by Dongwoo Lee from Yonsei University (hepsdata@yonsei.ac.kr). This project uses his code for image saving.
+2. cartesian_to_polar.py is contributed by Dongwoo Lee from Yonsei University (hepsdata@yonsei.ac.kr). This project uses his code for image saving.
 
 3. We used the image files generated from this script to perform classification tasks using the CNN model from [WingMaster22](https://github.com/WingMaster22). Their contributions have been invaluable. You can find the original repository [here](https://github.com/WingMaster22/polar-spectrogram-model).
 
 ## How to Use
-1. Prepare the CiCC 2017 dataset in the same directory as <Polar Spectrogram Project.ipynb>.
-2. Follow the steps in <Polar Spectrogram Project.ipynb>.
+1. Prepare the CiCC 2017 dataset in the same directory as Polar Spectrogram Project.ipynb.
+2. Follow the steps in Polar Spectrogram Project.ipynb.
 
 ## Contact
 If you have any questions about this project, please email me at kanghb777@yonsei.ac.kr.
