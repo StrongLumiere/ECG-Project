@@ -1,7 +1,7 @@
 # Deep Learning-Based Prediction of Atrial Fibrillation from Polar Transformed Time-Frequency Electrocardiogram
 ![ecg_animation1](https://github.com/user-attachments/assets/51da70fb-1ea6-4493-a2c6-15437a0f3e23)
 ![Iris](https://github.com/user-attachments/assets/c5d1d58c-5881-4bd7-82fe-3db81b9f32fa)
-
+[This gif shows not a process of visualizaiton! :)]
 This project provides a novel visualization of single-lead electrocardiograms (ECG) in the time-frequency domain.
 
 ## Context
